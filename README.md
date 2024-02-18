@@ -1,9 +1,8 @@
-![MasterHead](https://cdna.artstation.com/p/assets/images/images/028/102/058/original/pixel-jeff-matrix-s.gif?1593487263)
 <h1 align="center">Hi 👋, I'm Mahmoud Hashem</h1>
 <h3 align="center">A Software Engineering Student: Powered by Coffee Beans and Code Dreams</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hoodahashem&label=Profile%20views&color=0e75b6&style=flat" alt="hoodahashem" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=hoodahashem&label=Profile%20views&color=0e75b6&style=flat" alt="hoodahashem" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hoodahashem" alt="hoodahashem" /></a> </p>
 
