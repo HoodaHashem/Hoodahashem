@@ -10,7 +10,6 @@
 
 - 📫 How to reach me **mahmoudhashem335@gmail.com**
 
-- ⚡ Fun fact **I once automated my morning routine to the point where my coffee is brewed, my favorite playlist starts playing, and my website analytics are updated—all before I even hit snooze on my alarm. 🤖☕🌐**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
