@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **At ALX**
 
-- 💬 Ask me about **Automating Your Life and Crafting Kickass Websites**
-
 - 📫 How to reach me **mahmoudhashem335@gmail.com**
 
 
