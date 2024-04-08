@@ -1,4 +1,4 @@
-![](assets/Bottom_up.svg)
+
 <h1 align="center">Hi 👋, I'm Mahmoud Hashem</h1>
 <h3 align="center">A Software Engineering Student: Powered by Coffee Beans and Code Dreams</h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
