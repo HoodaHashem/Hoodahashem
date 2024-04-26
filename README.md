@@ -1,5 +1,6 @@
 ![](assets/Bottom_up.svg)
-<h3 align="center">A Software Engineering Student: Powered by Coffee Beans and Code Dreams</h3>
+<h1 align="center"><em>Hi, I'm Mahmoud Hashem</em> 👾</h1>
+<h3 align="center"><em>A Software Engineering Student: Powered by Coffee Beans and Code Dreams</em></h3>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=hoodahashem&label=Profile%20views&color=0e75b6&style=flat" alt="hoodahashem" /> </p>
