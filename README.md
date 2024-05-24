@@ -2,6 +2,7 @@
 
 <div align="center">
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="48" width="48" </a>
+  <br>
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7F7F7&center=true&vCenter=true&random=false&width=435&lines=Hi%2C+I'm+Mahmoud+Hashem+%F0%9F%91%BE" alt="Typing SVG">
   </a>
